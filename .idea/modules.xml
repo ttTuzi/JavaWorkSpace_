@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GooglePractice/GooglePractice.iml" filepath="$PROJECT_DIR$/GooglePractice/GooglePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWorkSpace.iml" filepath="$PROJECT_DIR$/JavaWorkSpace.iml" />
+      <module fileurl="file://E:/Leetcode/LeetCode.iml" filepath="E:/Leetcode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probability/Probability.iml" filepath="$PROJECT_DIR$/Probability/Probability.iml" />
+      <module fileurl="file://E:/StartNewJava/StartNewJava.iml" filepath="E:/StartNewJava/StartNewJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data structure/data structure.iml" filepath="$PROJECT_DIR$/../data structure/data structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shngGuiGu/shngGuiGu.iml" filepath="$PROJECT_DIR$/shngGuiGu/shngGuiGu.iml" />
+    </modules>
+  </component>
+</project>
